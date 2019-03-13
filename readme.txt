@@ -4,3 +4,4 @@ this is third msgls
 add forth msg git status
 add fifth msg
 add six msg
+add seven msg!
